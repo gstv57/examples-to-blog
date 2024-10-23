@@ -1,0 +1,15 @@
+{
+    "name": "dimitri/examples-to-blog",
+    "autoload": {
+        "psr-4": {
+            "Dimitri\\ExamplesToBlog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gustavo de Moraes",
+            "email": "gustavodemoraes@plugwin.net"
+        }
+    ],
+    "require": {}
+}
